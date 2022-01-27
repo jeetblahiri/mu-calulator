@@ -45,8 +45,9 @@ def clickbtn(event):
     textField.insert(END, text)
 
 #creating a tkinter window for the calculator with all the necessary attributes
+
 window = Tk()
-window.title("Ghiloo's Calculator") 
+window.title("Jeet's Calculator") 
 window.geometry("290x320")
 window.resizable(0, 0)
 headingLabel = Label(window,
