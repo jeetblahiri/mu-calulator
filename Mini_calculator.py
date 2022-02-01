@@ -44,7 +44,7 @@ def clickbtn(event):
         return
     textField.insert(END, text)
 
-#creating a tkinter window for the calculator with all the necessary attributes
+#creating a tkinter window for the calculator with all the required attributes
 
 window = Tk()
 window.title("Jeet's Calculator") 
